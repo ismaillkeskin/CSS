@@ -1,0 +1,17 @@
+h1{
+  color: aqua;
+  font-size: xx-large;
+  font-weight: bold;
+  font-style: italic;  
+  text-transform: uppercase;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-decoration: underline;
+}
+p{
+    color:darkorange;
+    background-color:aliceblue;
+    text-align: right;
+    font-size: smaller;
+
+    
+}
